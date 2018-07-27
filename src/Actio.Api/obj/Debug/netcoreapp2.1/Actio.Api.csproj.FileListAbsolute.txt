@@ -1,0 +1,17 @@
+D:\REPO\Microservices\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.deps.json
+D:\REPO\Microservices\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.runtimeconfig.json
+D:\REPO\Microservices\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.runtimeconfig.dev.json
+D:\REPO\Microservices\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.dll
+D:\REPO\Microservices\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.pdb
+D:\REPO\Microservices\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Common.dll
+D:\REPO\Microservices\Actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Common.pdb
+D:\REPO\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.csprojAssemblyReference.cache
+D:\REPO\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.csproj.CoreCompileInputs.cache
+D:\REPO\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.RazorAssemblyInfo.cache
+D:\REPO\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.RazorAssemblyInfo.cs
+D:\REPO\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.AssemblyInfoInputs.cache
+D:\REPO\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.AssemblyInfo.cs
+D:\REPO\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.RazorTargetAssemblyInfo.cache
+D:\REPO\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.csproj.CopyComplete
+D:\REPO\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.dll
+D:\REPO\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.pdb
